@@ -1,7 +1,12 @@
+
 ## 🚗 Automobile Sales Analytics Dashboard
 
 Live Dashboard:
-View the Automobile Sales Dashboard
+👉 https://analytics.zoho.com/open-view/3185229000000014305
+
+Embed (optional):
+
+<iframe src="https://analytics.zoho.com/open-view/3185229000000014305" width="100%" height="600"></iframe>
 
 ## 📌 Project Overview
 
@@ -21,7 +26,7 @@ Pricing & Revenue Patterns: Explore relationships between price, units sold, and
 
 Zoho Analytics – Data modelling, visualization, and dashboard creation
 
-Excel/CSV – Data preparation & cleaning (if applicable)
+CSV / Pandas – Data preparation & cleaning (if applicable)
 
 Data Analytics Techniques – Aggregation, filtering, trend analysis, KPI creation
 
@@ -31,7 +36,7 @@ Data cleaning and transformation
 
 Dashboard design & visualization
 
-## KPI development
+KPI development
 
 Business insights & storytelling
 
