@@ -1,90 +1,38 @@
-# Automobile_Sales-
+## 🚗 Automobile Sales Analytics Dashboard
 
-# Historical Automobile Sales Analysis – Data Science Capstone Project
-#Project Overview
+Live Dashboard:
+View the Automobile Sales Dashboard
 
-This project analyzes historical automobile sales data to uncover trends, insights, and patterns that inform business and marketing strategies. The analysis includes exploratory data analysis (EDA), SQL-style aggregations, interactive visualizations, and predictive modeling to forecast automobile sales.
+## 📌 Project Overview
 
-The goal of this project is to demonstrate the full data science workflow, including data wrangling, visualization, feature engineering, and predictive modeling.
+This project analyzes automobile sales performance across different manufacturers, models, regions, and time periods. The interactive dashboard provides insights into revenue trends, best-selling categories, seasonal patterns, and brand performance.
 
-# Dataset
+## 🎯 Key Insights
 
-Source: Historical Automobile Sales Dataset
-Description: The dataset contains historical sales data for multiple automobile brands, including features such as Brand, Vehicle Type, Price, Year, Region, Date, and Sales.
+Sales Trends: Identify monthly and yearly sales performance to understand growth and seasonality.
 
-# Key Steps in the Analysis
-1. Data Collection & Cleaning
-Loaded CSV dataset
+Top Performing Brands & Models: Compare which manufacturers and vehicle types drive the most revenue.
 
-Handled missing values, duplicates, and data type conversions
+Regional Sales Distribution: Analyze how sales vary across regions to support market expansion strategies.
 
-Removed irrelevant columns
+Pricing & Revenue Patterns: Explore relationships between price, units sold, and revenue.
 
-# Exploratory Data Analysis (EDA)
+## 🛠️ Tools Used
 
-Summary statistics and value counts
+Zoho Analytics – Data modelling, visualization, and dashboard creation
 
-Scatter plots, boxplots, and distribution analysis
+Excel/CSV – Data preparation & cleaning (if applicable)
 
-Identified trends, outliers, and correlations
+Data Analytics Techniques – Aggregation, filtering, trend analysis, KPI creation
 
-# SQL-Style Aggregations
+## 📁 Skills Demonstrated
 
-Sales trends by year, region, and quarter
+Data cleaning and transformation
 
-Highlighted top-performing brands and regions
+Dashboard design & visualization
 
-Seasonal sales pattern analysis
+## KPI development
 
-#  Predictive Modeling
+Business insights & storytelling
 
-Linear Regression to predict automobile_sales
-
-Feature selection: Price, Brand, Year, Vehicle Type
-
-Model evaluation using R² and MAE
-
-Predicted vs actual visualization
-
-# Interactive Visualizations (Optional)
-
-Plotly/Dash dashboards for dynamic exploration
-
-Folium maps to visualize sales by region (if applicable)
-
-# Project Highlights
-
-Identification of top-selling brands and high-performing regions
-
-Analysis of the effect of pricing on sales trends
-
-Seasonal patterns in automobile sales
-
-Predictive model for forecasting future sales
-
-# How to Use
-
-Clone the repository:
-
-git clone <your-repo-url>
-
-
-Open the Jupyter notebooks (.ipynb) in Jupyter or VS Code.
-
-Run the notebooks sequentially to reproduce all analyses, visualizations, and predictive modeling results.
-
-# Technologies Used
-
-Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
-
-Jupyter Notebook
-
-Plotly / Dash (for interactive visualizations)
-
-Folium (for interactive maps)
-
-Git / GitHub for version control
-
-## Author
-
-[Francis Affonah] – Data Science Enthusiast / IBM Data Science & Clinical Data Science Learner
+Analytical thinking
